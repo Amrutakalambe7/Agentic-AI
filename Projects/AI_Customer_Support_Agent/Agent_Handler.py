@@ -10,7 +10,7 @@ from smolagents.agents import CodeAgent
 
 
 # Configure Google API
-genai.configure(api_key= 'AIzaSdfedtscrW1eWbshh9nQ5fOxIGUX_v64zrSUuk')
+genai.configure(api_key= 'GOOGLE_API_KEY')
 
 # Initiate CodeAgent with correct parameters
 agent = CodeAgent(
