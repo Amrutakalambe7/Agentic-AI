@@ -7,13 +7,11 @@ Project Highlights:
 Real-Time Query Handling:
 
 1. Provides accurate responses to customer queries using Google Gemini 1.5 Flash.
-2. 
-3. Seamlessly manages FAQs and tasks, ensuring a smooth customer experience.
+2. Seamlessly manages FAQs and tasks, ensuring a smooth customer experience.
 
 Sentiment Analysis with Action:
 1. Analyzes customer sentiment in real-time using NLTK’s SentimentIntensityAnalyzer.
-2. 
-3. Automatically escalates high-priority negative queries to a human agent for immediate attention.
+2. Automatically escalates high-priority negative queries to a human agent for immediate attention.
 
 Tech Stack Used:
 LLMs: Google Gemini 1.5 Flash, Gemma 2
